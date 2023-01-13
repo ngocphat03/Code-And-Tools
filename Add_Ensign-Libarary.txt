@@ -1,0 +1,3 @@
+Name: Ensign Studio Service
+URL: http://dungnv.info:4873
+Scopes: com.ensign
