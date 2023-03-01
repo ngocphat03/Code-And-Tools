@@ -1,4 +1,4 @@
-CHCP 1258 >nul 2>&1
+﻿CHCP 1258 >nul 2>&1
 CHCP 65001 >nul 2>&1
 @echo off
 
