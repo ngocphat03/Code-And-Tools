@@ -1,14 +1,11 @@
-using System.IO;
 using UnityEngine;
 using Newtonsoft.Json;
-using System.Collections;
 using Newtonsoft.Json.Converters;
-using System.Collections.Generic;
 using Random = UnityEngine.Random;
 
 public class JsonFileSaveAndLoadTemplate : MonoBehaviour
 {
-    ListModel _listModel = new();T
+    ListModel _listModel = new ();
     public void Test()
     {
         this.LoadDataFromFile();
